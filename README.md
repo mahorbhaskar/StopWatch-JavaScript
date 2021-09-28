@@ -1,1 +1,3 @@
-# StopWatch-JavaScript
+## StopWatch-JavaScript
+
+![](demo/stopwatch.gif)
